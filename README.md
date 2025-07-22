@@ -1,4 +1,5 @@
 🔍 SQL Query Assistant
+
 An AI-powered web application that allows users to interact with a MySQL database using natural language. This tool translates user questions into executable SQL queries, runs them, and provides clear, conversational answers, making database interaction accessible to non-technical users.
 ✨ Features
 •	Natural Language to SQL Translation: Converts plain English questions into syntactically correct MySQL queries using Google Gemini's powerful LLM.
