@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration from environment variables
-GOOGLE_API_KEY = "AIzaSyAzfMH1QVpmT1jy71Hx5G2pGmMRxCfz1tg"
+GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 db_user = os.getenv("DB_USER", "root")
 db_password = os.getenv("DB_PASSWORD", "root")
 db_host = os.getenv("DB_HOST", "localhost")
