@@ -82,4 +82,5 @@ This command will open the application in your web browser, usually at http://lo
 
 Feel free to reach out if you have any questions or feedback!
 •	Email: vanshikashukla065@gmail.com
+
 •	LinkedIn: linkedin.com/in/vanshika-shukla30
