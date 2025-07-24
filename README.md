@@ -1,7 +1,9 @@
 🔍 SQL Query Assistant
 
 An AI-powered web application that allows users to interact with a MySQL database using natural language. This tool translates user questions into executable SQL queries, runs them, and provides clear, conversational answers, making database interaction accessible to non-technical users.
+
 ✨ Features
+
 •	Natural Language to SQL Translation: Converts plain English questions into syntactically correct MySQL queries using Google Gemini's powerful LLM.
 •	Query Execution: Seamlessly executes the generated SQL queries against a connected MySQL database.
 •	Natural Language Response Generation: Provides easy-to-understand, conversational answers based on the query results.
@@ -9,7 +11,9 @@ An AI-powered web application that allows users to interact with a MySQL databas
 •	Database Connection Status: Displays real-time database connection details and lists available tables.
 •	Example Questions & Quick Actions: Offers pre-defined queries and quick buttons to help users explore the database efficiently.
 •	Error Handling: Includes robust error handling for API and database connection issues.
+
 🚀 Technologies Used
+
 •	Python
 •	Streamlit: For building the interactive web interface.
 •	Google Generative AI (Gemini 2.5 Flash): The Large Language Model (LLM) for natural language understanding and SQL generation.
@@ -18,12 +22,16 @@ An AI-powered web application that allows users to interact with a MySQL databas
 •	python-dotenv: For managing environment variables (e.g., API keys, database credentials).
 •	pymysql: MySQL database connector for Python.
 •	tenacity: For adding retry logic to API calls.
+
 📸 Screenshots
+
 Main Interface & AI Response
 A user querying "show me the total revenue" and receiving a natural language response.
 Additional Insights & Quick Actions
 The application providing additional insights and quick action buttons after a query.
+
 ⚙️ How to Run Locally
+
 Follow these steps to set up and run the SQL Query Assistant on your local machine.
 1. Prerequisites
 •	Python 3.8+: Ensure you have Python installed.
@@ -69,7 +77,9 @@ streamlit run sql_query.py
 
 
 This command will open the application in your web browser, usually at http://localhost:8501.
+
 📧 Contact
+
 Feel free to reach out if you have any questions or feedback!
 •	Email: vanshikashukla065@gmail.com
 •	LinkedIn: linkedin.com/in/vanshika-shukla30
